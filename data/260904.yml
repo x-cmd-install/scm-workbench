@@ -7,7 +7,7 @@ about:
   head: 6ae7914
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:23:32Z
+  collectedAt: 2026-09-04T21:13:59Z
 timeline:
   created: 2016-01-20
   lastCommit: 2022-07-10
@@ -86,5 +86,68 @@ total:
   openIssue: 5
   commit: 954
 ---
+path: /home/runner/.x-repo/github.com/barry-scott/scm-workbench
+collectedAt: 2026-09-04T21:14:00Z
+loc:
+  Python:
+    code: 20132
+    comments: 1547
+    blanks: 7061
+    files: 140
+  Html:
+    code: 8003
+    comments: 20
+    blanks: 1219
+    files: 8
+  Sh:
+    code: 799
+    comments: 83
+    blanks: 225
+    files: 25
+  Batch:
+    code: 255
+    comments: 0
+    blanks: 57
+    files: 7
+  Svg:
+    code: 107
+    comments: 1
+    blanks: 1
+    files: 1
+  RPMSpecfile:
+    code: 84
+    comments: 2
+    blanks: 15
+    files: 1
+  Css:
+    code: 57
+    comments: 4
+    blanks: 10
+    files: 1
+  Makefile:
+    code: 33
+    comments: 9
+    blanks: 8
+    files: 4
+  Xml:
+    code: 29
+    comments: 0
+    blanks: 0
+    files: 1
+  ReStructuredText:
+    code: 6
+    comments: 0
+    blanks: 4
+    files: 1
+  Text:
+    code: 0
+    comments: 141
+    blanks: 38
+    files: 7
+total:
+  code: 29565
+  comments: 1809
+  blanks: 8643
+  files: 196
 ---
 
